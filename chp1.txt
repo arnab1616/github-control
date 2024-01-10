@@ -1,0 +1,6 @@
+For make directory mkdir "file name".
+For create file into directory cd 'file name' then touch 'file name'.
+For initialized git type "git init".
+for checking Status type "git status".
+for add to commite type "git add <file name> ".
+
