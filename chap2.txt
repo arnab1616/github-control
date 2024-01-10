@@ -1,0 +1,2 @@
+For Set Commit messeges type "git commit -m <messege>"
+for checking commit messeges " git log "
